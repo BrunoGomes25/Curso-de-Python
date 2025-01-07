@@ -12,3 +12,4 @@ if (imc > 25.0) and (imc < 29.9):
 if imc > 30:
     print("meu nome é",nome, "e IMC é:", int(imc),"e estou no obeso(a)")
 
+"testando"
