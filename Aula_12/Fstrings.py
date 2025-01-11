@@ -16,4 +16,4 @@ if (imc > 25.0) and (imc < 29.9):
     print(linha_3)
 if imc > 30:
     print(linha_4)
-print("sou muito bom")
+print("big nando esta observando")
